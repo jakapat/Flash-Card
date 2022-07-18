@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\Windows\\System32\\deepbasic_pj",
+  "password": false,
+  "pid": 17612,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "9b7fed068379951928f53d97a974c8113d29c0e62154c4fb",
+  "url": "http://localhost:8888/"
+}
